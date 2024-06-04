@@ -18,7 +18,7 @@
 六娃：遵航出山
 七娃：小农
 目前已经完成了所有葫芦娃平台的代码等获取
-科技加飞机@hlwkj
+科技加微信:hlwkj6
 ![IMG_1365](https://github.com/hlwtl/hlwyy/assets/166730822/f8e85ec8-b3c4-4c1d-ba2b-d17cec1714db)
 ![IMG_1364](https://github.com/hlwtl/hlwyy/assets/166730822/a41d822c-f066-4f6b-b397-9a904e6837be)
 ![IMG_1358](https://github.com/hlwtl/hlwyy/assets/166730822/6480e64f-f71b-47b4-b26f-3507dea66a88)
